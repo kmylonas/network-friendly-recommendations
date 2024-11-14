@@ -1,5 +1,5 @@
 # network-friendly-recommendations
-Use reinforcement learning methods in order to do good recommendations to a user that is watching a video. The agent has to recommend items that are relevant to what the user is watching and cached (low cost) at the same time. In this way the network load is minimised and the user remains satisfied
+Utilize reinforcement learning methods to provide high-quality recommendations to users while they are watching videos. The agent must recommend items that are both contextually relevant to the current video and readily available in the cache (low-cost), thereby minimizing network load while keeping users satisfied.
 
 # Environment (Content Catalogue):
 K content items. Pick K <= 100 initially, as the code might get pretty slow otherwise.
